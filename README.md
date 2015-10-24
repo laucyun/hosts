@@ -1,18 +1,18 @@
-ËµÃ÷
+è¯´æ˜Ž
 ----
 
-hostsÎÄ¼þÊÇÒ»¸öÃ»ÓÐÀ©Õ¹ÃûµÄÏµÍ³ÎÄ¼þ£¬ËüµÄÖ÷Òª×÷ÓÃÊÇÄÜ¼Ó¿ìÓòÃû½âÎö£¬»¹¿ÉÒÔÆÁ±ÎÍøÕ¾µÈ¡£ 
+hostsæ–‡ä»¶æ˜¯ä¸€ä¸ªæ²¡æœ‰æ‰©å±•åçš„ç³»ç»Ÿæ–‡ä»¶ï¼Œå®ƒçš„ä¸»è¦ä½œç”¨æ˜¯èƒ½åŠ å¿«åŸŸåè§£æžï¼Œè¿˜å¯ä»¥å±è”½ç½‘ç«™ç­‰ã€‚ 
 
-³¤ÆÚ¸üÐÂGoogle¡¢¹È¸èÑ§Êõ¡¢Î¬»ù°Ù¿Æ¡¢ccFox.info¡¢ProjectH¡¢3DM¡¢Battle.NET ¡¢WordPress¡¢Microsoft Live¡¢GitHub¡¢Box.com¡¢SoundCloud¡¢inoreader¡¢Feedly¡¢FlipBoard¡¢Twitter¡¢Facebook¡¢Flickr¡¢imgur¡¢DuckDuckGo¡¢Ixquick¡¢Google Services¡¢Google apis¡¢Android¡¢Youtube¡¢Google Drive¡¢UpLoad¡¢Appspot¡¢Googl eusercontent¡¢Gstatic¡¢Google other¡¢Google PlayµÈhosts¡£
+é•¿æœŸæ›´æ–°Googleã€è°·æ­Œå­¦æœ¯ã€ç»´åŸºç™¾ç§‘ã€ccFox.infoã€ProjectHã€3DMã€Battle.NET ã€WordPressã€Microsoft Liveã€GitHubã€Box.comã€SoundCloudã€inoreaderã€Feedlyã€FlipBoardã€Twitterã€Facebookã€Flickrã€imgurã€DuckDuckGoã€Ixquickã€Google Servicesã€Google apisã€Androidã€Youtubeã€Google Driveã€UpLoadã€Appspotã€Googl eusercontentã€Gstaticã€Google otherã€Google Playç­‰hostsã€‚
 
-¹¤×÷»úÖÆ
+å·¥ä½œåŽŸç†
 --------
 
-ä¯ÀÀÆ÷·ÃÎÊÍøÕ¾£¬ÒªÊ×ÏÈÍ¨¹ýDNS·þÎñÆ÷°ÑÒª·ÃÎÊµÄÍøÕ¾ÓòÃû½âÎö³ÉÒ»¸öÎ¨Ò»µÄIPµØÖ·£¬Ö®ºó£¬ä¯ÀÀÆ÷²ÅÄÜ¶Ô´ËÍøÕ¾½øÐÐ¶¨Î»²¢ÇÒ·ÃÎÊÆäÊý¾Ý¡£
+æµè§ˆå™¨è®¿é—®ç½‘ç«™ï¼Œè¦é¦–å…ˆé€šè¿‡DNSæœåŠ¡å™¨æŠŠè¦è®¿é—®çš„ç½‘ç«™åŸŸåè§£æžæˆä¸€ä¸ªå”¯ä¸€çš„IPåœ°å€ï¼Œä¹‹åŽï¼Œæµè§ˆå™¨æ‰èƒ½å¯¹æ­¤ç½‘ç«™è¿›è¡Œå®šä½å¹¶ä¸”è®¿é—®å…¶æ•°æ®ã€‚
 
-²Ù×÷ÏµÍ³¹æ¶¨£¬ÔÚ½øÐÐDNSÇëÇóÒÔÇ°£¬ÏÈ¼ì²éÏµ×Ô¼ºµÄHostsÎÄ¼þÖÐÊÇ·ñÓÐÕâ¸öÓòÃûºÍIPµÄÓ³Éä¹ØÏµ¡£Èç¹ûÓÐ£¬ÔòÖ±½Ó·ÃÎÊÕâ¸öIPµØÖ·Ö¸¶¨µÄÍøÂçÎ»ÖÃ£¬Èç¹ûÃ»ÓÐ£¬ÔÙÏòÒÑÖªµÄDNS·þÎñÆ÷Ìá³öÓòÃû½âÎöÇëÇó¡£Ò²¾ÍÊÇËµHostsµÄIP½âÎöÓÅÏÈ¼¶±ÈDNSÒª¸ß¡£
+æ“ä½œç³»ç»Ÿè§„å®šï¼Œåœ¨è¿›è¡ŒDNSè¯·æ±‚ä»¥å‰ï¼Œå…ˆæ£€æŸ¥ç³»è‡ªå·±çš„Hostsæ–‡ä»¶ä¸­æ˜¯å¦æœ‰è¿™ä¸ªåŸŸåå’ŒIPçš„æ˜ å°„å…³ç³»ã€‚å¦‚æžœæœ‰ï¼Œåˆ™ç›´æŽ¥è®¿é—®è¿™ä¸ªIPåœ°å€æŒ‡å®šçš„ç½‘ç»œä½ç½®ï¼Œå¦‚æžœæ²¡æœ‰ï¼Œå†å‘å·²çŸ¥çš„DNSæœåŠ¡å™¨æå‡ºåŸŸåè§£æžè¯·æ±‚ã€‚ä¹Ÿå°±æ˜¯è¯´Hostsçš„IPè§£æžä¼˜å…ˆçº§æ¯”DNSè¦é«˜ã€‚
 
-²Ù×÷ÏµÍ³
+é€‚ç”¨ç³»ç»Ÿ
 --------
   
   * Unix
@@ -21,35 +21,35 @@ hostsÎÄ¼þÊÇÒ»¸öÃ»ÓÐÀ©Õ¹ÃûµÄÏµÍ³ÎÄ¼þ£¬ËüµÄÖ÷Òª×÷ÓÃÊÇÄÜ¼Ó¿ìÓòÃû½âÎö£¬»¹¿ÉÒÔÆÁ±ÎÍøÕ
   * Mac
   * Windows
 
-¸üÐÂµØÖ·
+æ›´æ–°åœ°å€
 --------
 
-Ìá¹©ÁËÏÂÃæÁ½¸ö¸üÐÂµØÖ·£º
+æä¾›äº†ä¸‹é¢ä¸¤ä¸ªæ›´æ–°åœ°å€ï¼š
 
-  * [hosts_Ãâ·Ñ¸ßËÙÏÂÔØ|°Ù¶ÈÔÆ ÍøÅÌ-·ÖÏíÎÞÏÞÖÆ](http://pan.baidu.com/s/1kTlKev9)
+  * [hosts_å…è´¹é«˜é€Ÿä¸‹è½½|ç™¾åº¦äº‘ ç½‘ç›˜-åˆ†äº«æ— é™åˆ¶](http://pan.baidu.com/s/1kTlKev9)
   * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
   
-Ê¹ÓÃ·½·¨
+ä½¿ç”¨æ–¹æ³•
 --------
 
 ### Unix
-Èç¹ûÊÇUnixÏµÍ³£¬´ò¿ª`/etc/hosts`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
+å¦‚æžœæ˜¯Unixç³»ç»Ÿï¼Œæ‰“å¼€`/etc/hosts`ç›®å½•ï¼ŒæŠŠä¸‹è½½å¥½çš„`hosts`æ–‡ä»¶ç²˜å¸–å’Œè¦†ç›–è¯¥ç›®å½•çš„`hosts`æ–‡ä»¶ã€‚
 
 ### Linux
-Èç¹ûÊÇUnixÏµÍ³£¬´ò¿ª`/etc/hosts` Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
+å¦‚æžœæ˜¯Unixç³»ç»Ÿï¼Œæ‰“å¼€`/etc/hosts` ç›®å½•ï¼ŒæŠŠä¸‹è½½å¥½çš„`hosts`æ–‡ä»¶ç²˜å¸–å’Œè¦†ç›–è¯¥ç›®å½•çš„`hosts`æ–‡ä»¶ã€‚
 
 ### Android
-Èç¹ûÊÇAndroidÏµÍ³£¬ÓÃ RE¹ÜÀíÆ÷ £¨Ç°ÌáÐèÒªÊÖ»úÒÑRoot£©´ò¿ª`/system/etc/hosts`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
+å¦‚æžœæ˜¯Androidç³»ç»Ÿï¼Œç”¨ REç®¡ç†å™¨ ï¼ˆå‰æéœ€è¦æ‰‹æœºå·²Rootï¼‰æ‰“å¼€`/system/etc/hosts`ç›®å½•ï¼ŒæŠŠä¸‹è½½å¥½çš„`hosts`æ–‡ä»¶ç²˜å¸–å’Œè¦†ç›–è¯¥ç›®å½•çš„`hosts`æ–‡ä»¶ã€‚
 
 ### Mac
-Èç¹ûÊÇMacÏµÍ³£¬´ò¿ªÄãµÄÎÄ¼þ¹ÜÀíÆ÷£¨Ò²¾ÍÊÇFinder£©£¬È»ºó£¬Çë°´¿ì½Ý¼ü×éºÏ¡°Shift+Command+G¡±Èý¸ö×éºÏ°´¼ü²éÕÒÎÄ¼þ£¬²¢ÊäÈëHostsÎÄ¼þµÄËùÔÚÂ·¾¶£º`/etc/hosts`£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
+å¦‚æžœæ˜¯Macç³»ç»Ÿï¼Œæ‰“å¼€ä½ çš„æ–‡ä»¶ç®¡ç†å™¨ï¼ˆä¹Ÿå°±æ˜¯Finderï¼‰ï¼Œç„¶åŽï¼Œè¯·æŒ‰å¿«æ·é”®ç»„åˆâ€œShift+Command+Gâ€ä¸‰ä¸ªç»„åˆæŒ‰é”®æŸ¥æ‰¾æ–‡ä»¶ï¼Œå¹¶è¾“å…¥Hostsæ–‡ä»¶çš„æ‰€åœ¨è·¯å¾„ï¼š`/etc/hosts`ï¼ŒæŠŠä¸‹è½½å¥½çš„`hosts`æ–‡ä»¶ç²˜å¸–å’Œè¦†ç›–è¯¥ç›®å½•çš„`hosts`æ–‡ä»¶ã€‚
 
 ### Windows
-Èç¹ûÊÇWindowsÏµÍ³£¬´ò¿ª`C:\WINDOWS\system32\drivers\etc`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
+å¦‚æžœæ˜¯Windowsç³»ç»Ÿï¼Œæ‰“å¼€`C:\WINDOWS\system32\drivers\etc`ç›®å½•ï¼ŒæŠŠä¸‹è½½å¥½çš„`hosts`æ–‡ä»¶ç²˜å¸–å’Œè¦†ç›–è¯¥ç›®å½•çš„`hosts`æ–‡ä»¶ã€‚
 
-Èç¹û`hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½`hosts`ÎÄ¼þÄ©Î²¡£
+å¦‚æžœ`hosts`æ–‡ä»¶ä¸­æœ‰å†…å®¹ï¼Œè¯·æŠŠå®ƒè¿½åŠ åˆ°`hosts`æ–‡ä»¶æœ«å°¾ã€‚
 
-¸üÐÂÊ±¼ä
+æ›´æ–°æ—¶é—´
 --------
 
-»ù±¾ÉÏÊÇÃ¿ÖÜµÄÖÜÄ©¡£
+åŸºæœ¬ä¸Šæ˜¯æ¯å‘¨çš„å‘¨æœ«ã€‚
