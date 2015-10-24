@@ -36,7 +36,7 @@ hosts文件是一个没有扩展名的系统文件，它的主要作用是能加
 如果是Unix系统，打开`/etc/hosts`目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。
 
 ### Linux
-如果是Unix系统，打开`/etc/hosts` 目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。
+如果是Linux系统，打开`/etc/hosts` 目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。
 
 ### Android
 如果是Android系统，用 RE管理器 （前提需要手机已Root）打开`/system/etc/hosts`目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。
@@ -47,9 +47,9 @@ hosts文件是一个没有扩展名的系统文件，它的主要作用是能加
 ### Windows
 如果是Windows系统，打开`C:\WINDOWS\system32\drivers\etc`目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。
 
-如果`hosts`文件中有内容，请把它追加到`hosts`文件末尾。
+注：如果`hosts`文件中有内容，请把它追加到`hosts`文件末尾。
 
 更新时间
 --------
 
-基本上是每周的周末。
+基本上每周都会更新一次。
