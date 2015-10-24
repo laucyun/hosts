@@ -1,13 +1,15 @@
 ËµÃ÷
 ----
 
-hostsÎÄ¼þÊÇÒ»¸öÃ»ÓÐÀ©Õ¹ÃûµÄÏµÍ³ÎÄ¼þ£¬ËüµÄÖ÷Òª×÷ÓÃÊÇÄÜ¼Ó¿ìÓòÃû½âÎö£¬»¹¿ÉÒÔÆÁ±ÎÍøÕ¾µÈ¡£
+hostsÎÄ¼þÊÇÒ»¸öÃ»ÓÐÀ©Õ¹ÃûµÄÏµÍ³ÎÄ¼þ£¬ËüµÄÖ÷Òª×÷ÓÃÊÇÄÜ¼Ó¿ìÓòÃû½âÎö£¬»¹¿ÉÒÔÆÁ±ÎÍøÕ¾µÈ¡£ 
+
 ³¤ÆÚ¸üÐÂGoogle¡¢¹È¸èÑ§Êõ¡¢Î¬»ù°Ù¿Æ¡¢ccFox.info¡¢ProjectH¡¢3DM¡¢Battle.NET ¡¢WordPress¡¢Microsoft Live¡¢GitHub¡¢Box.com¡¢SoundCloud¡¢inoreader¡¢Feedly¡¢FlipBoard¡¢Twitter¡¢Facebook¡¢Flickr¡¢imgur¡¢DuckDuckGo¡¢Ixquick¡¢Google Services¡¢Google apis¡¢Android¡¢Youtube¡¢Google Drive¡¢UpLoad¡¢Appspot¡¢Googl eusercontent¡¢Gstatic¡¢Google other¡¢Google PlayµÈhosts¡£
 
 ¹¤×÷»úÖÆ
 --------
 
 ä¯ÀÀÆ÷·ÃÎÊÍøÕ¾£¬ÒªÊ×ÏÈÍ¨¹ýDNS·þÎñÆ÷°ÑÒª·ÃÎÊµÄÍøÕ¾ÓòÃû½âÎö³ÉÒ»¸öÎ¨Ò»µÄIPµØÖ·£¬Ö®ºó£¬ä¯ÀÀÆ÷²ÅÄÜ¶Ô´ËÍøÕ¾½øÐÐ¶¨Î»²¢ÇÒ·ÃÎÊÆäÊý¾Ý¡£
+
 ²Ù×÷ÏµÍ³¹æ¶¨£¬ÔÚ½øÐÐDNSÇëÇóÒÔÇ°£¬ÏÈ¼ì²éÏµ×Ô¼ºµÄHostsÎÄ¼þÖÐÊÇ·ñÓÐÕâ¸öÓòÃûºÍIPµÄÓ³Éä¹ØÏµ¡£Èç¹ûÓÐ£¬ÔòÖ±½Ó·ÃÎÊÕâ¸öIPµØÖ·Ö¸¶¨µÄÍøÂçÎ»ÖÃ£¬Èç¹ûÃ»ÓÐ£¬ÔÙÏòÒÑÖªµÄDNS·þÎñÆ÷Ìá³öÓòÃû½âÎöÇëÇó¡£Ò²¾ÍÊÇËµHostsµÄIP½âÎöÓÅÏÈ¼¶±ÈDNSÒª¸ß¡£
 
 ²Ù×÷ÏµÍ³
@@ -24,33 +26,30 @@ hostsÎÄ¼þÊÇÒ»¸öÃ»ÓÐÀ©Õ¹ÃûµÄÏµÍ³ÎÄ¼þ£¬ËüµÄÖ÷Òª×÷ÓÃÊÇÄÜ¼Ó¿ìÓòÃû½âÎö£¬»¹¿ÉÒÔÆÁ±ÎÍøÕ
 
 Ìá¹©ÁËÏÂÃæÁ½¸ö¸üÐÂµØÖ·£º
 
-  * [°Ù¶ÈÔÆÅÌ](http://pan.baidu.com/s/1kTlKev9)
-  * [Github](https://github.com/liuker0x007/hosts)
+  * [hosts_Ãâ·Ñ¸ßËÙÏÂÔØ|°Ù¶ÈÔÆ ÍøÅÌ-·ÖÏíÎÞÏÞÖÆ](http://pan.baidu.com/s/1kTlKev9)
+  * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
   
 Ê¹ÓÃ·½·¨
 --------
 
 ### Unix
-Èç¹ûÊÇUnixÏµÍ³£¬´ò¿ª `/etc/hosts`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ `hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ `hosts`ÎÄ¼þ¡£
-Èç¹û `hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½ `hosts`ÎÄ¼þÄ©Î²¡£
+Èç¹ûÊÇUnixÏµÍ³£¬´ò¿ª`/etc/hosts`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
 
 ### Linux
-Èç¹ûÊÇUnixÏµÍ³£¬´ò¿ª `/etc/hosts` Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ `hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ `hosts`ÎÄ¼þ¡£
-Èç¹û `hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½ `hosts` ÎÄ¼þÄ©Î²¡£
+Èç¹ûÊÇUnixÏµÍ³£¬´ò¿ª`/etc/hosts` Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
 
 ### Android
-Èç¹ûÊÇAndroidÏµÍ³£¬ÓÃ RE¹ÜÀíÆ÷ £¨Ç°ÌáÐèÒªÊÖ»úÒÑRoot£©´ò¿ª `/system/etc/hosts`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ `hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ `hosts`ÎÄ¼þ¡£
-Èç¹û `hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½ `hosts`ÎÄ¼þÄ©Î²¡£
+Èç¹ûÊÇAndroidÏµÍ³£¬ÓÃ RE¹ÜÀíÆ÷ £¨Ç°ÌáÐèÒªÊÖ»úÒÑRoot£©´ò¿ª`/system/etc/hosts`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
 
 ### Mac
-Èç¹ûÊÇMacÏµÍ³£¬´ò¿ªÄãµÄÎÄ¼þ¹ÜÀíÆ÷£¨Ò²¾ÍÊÇFinder£©£¬È»ºó£¬Çë°´¿ì½Ý¼ü×éºÏ¡°Shift+Command+G¡±Èý¸ö×éºÏ°´¼ü²éÕÒÎÄ¼þ£¬²¢ÊäÈëHostsÎÄ¼þµÄËùÔÚÂ·¾¶£º`/etc/hosts`£¬°ÑÏÂÔØºÃµÄ `hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ `hosts`ÎÄ¼þ¡£
-Èç¹û `hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½ `hosts`ÎÄ¼þÄ©Î²¡£
+Èç¹ûÊÇMacÏµÍ³£¬´ò¿ªÄãµÄÎÄ¼þ¹ÜÀíÆ÷£¨Ò²¾ÍÊÇFinder£©£¬È»ºó£¬Çë°´¿ì½Ý¼ü×éºÏ¡°Shift+Command+G¡±Èý¸ö×éºÏ°´¼ü²éÕÒÎÄ¼þ£¬²¢ÊäÈëHostsÎÄ¼þµÄËùÔÚÂ·¾¶£º`/etc/hosts`£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
 
 ### Windows
-Èç¹ûÊÇWindowsÏµÍ³£¬´ò¿ª `C:\WINDOWS\system32\drivers\etc`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ `hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ `hosts`ÎÄ¼þ¡£
-Èç¹û `hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½ `hosts`ÎÄ¼þÄ©Î²¡£
+Èç¹ûÊÇWindowsÏµÍ³£¬´ò¿ª`C:\WINDOWS\system32\drivers\etc`Ä¿Â¼£¬°ÑÏÂÔØºÃµÄ`hosts`ÎÄ¼þÕ³ÌûºÍ¸²¸Ç¸ÃÄ¿Â¼µÄ`hosts`ÎÄ¼þ¡£
 
-Ê¹ÓÃ·½·¨
+Èç¹û`hosts`ÎÄ¼þÖÐÓÐÄÚÈÝ£¬Çë°ÑËü×·¼Óµ½`hosts`ÎÄ¼þÄ©Î²¡£
+
+¸üÐÂÊ±¼ä
 --------
 
-Ã¿ÖÜµÄÖÜÄ©¡£
+»ù±¾ÉÏÊÇÃ¿ÖÜµÄÖÜÄ©¡£
