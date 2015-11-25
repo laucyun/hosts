@@ -35,7 +35,7 @@ hosts文件是一个没有扩展名的系统文件，它的主要作用是能加
 ### Linux & Unix
 Linux 系统终端下命令：  
 使用wget或curl，以wget为例：  
-开启终端(快捷键为"Ctrl + Alt + T")输入`bash -c 'wget https://github.com/liuker0x007/hosts/tree/master/20151115/Linux/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`
+开启终端(快捷键为"Ctrl + Alt + T")输入`bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`
 或者非命令：
 打开`/etc/hosts` 目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。
 <br>最后在终端输入`sudo systemctl restart NetworkManager`
