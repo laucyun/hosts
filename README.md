@@ -46,8 +46,6 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 更新地址
 --------
 
-更新地址：
-
   * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
   
 如何修改Hosts
@@ -74,7 +72,7 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 ### Windows
 用文本编辑器(如Notepad++|记事本)打开`C:\Windows\System32\drivers\etc`中的hosts文件，把下载好的`hosts`文件全部内容复制到`C:\WINDOWS\system32\drivers\etc`目录中的hosts文件中，保存后通过```开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns```使其生效。
 
-注意：如果遇到无法保存，请右键hosts->属性->安全，然后选择你登陆的用户名，最后点击编辑，勾选"写入"即可。
+注意：如果遇到无法保存，请右键hosts -> 属性 -> 安全，然后选择你登陆的用户名，最后点击编辑，勾选"写入"即可。
 
 **注意：如果`hosts`文件中已经有内容，那么请把已有的内容追加到`hosts`文件末尾。**
 
