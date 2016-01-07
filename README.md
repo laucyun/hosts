@@ -1,47 +1,49 @@
 说明
 ----
-<br>
+
 hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
-<br>
+
 ]Liuker Team[团队将持续更新Google、Gmail、谷歌学术、Google Play、Facebook、Twitter、Youtube、Android、亚马逊、雅虎、维基百科、Mozilla、Github、、Archive、Battle.NET、Box.com、BundleStars、DeviantART、DuckDuckGo、HumbleBundle、imgur、Indiegala、inoreader、Instagram、Ixquick、Logmein、MEGA、OneDrive、osu、RockStar、SoundCloud、Speedtest、Startpage、Steam、WordPress、XDA、Appannie、Travis CI fastly CDN等hosts。
-<br>
+
 **注：**
 Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打开。（一般这些网站都是SSL加密链接，如Twitter：https://twitter.com/）
-<br>
+
 如果不喜欢用谷歌香港，可以以[https://www.google.com/ncr](https://www.google.com/ncr)方式访问，（No Country Redirect）禁止国别跳转。
-<br>
+
 可能有的地区的网络（铁通、联通）hosts会出现无法正常使用，这个不是你我能左右的！
-<br>
+
 由于DNS污染太严重，YouTube只能打开网页，视频无法播放！如果想观看YouTube的视频，可以通过[YouTube Video Converter - Convert to MP3, MP4, AVI, MKV](http://www.onlinevideoconverter.com/video-converter)网站把视频下载下来，接着在本地观看。
-<br>
-<br>
+
+
 **重要的事情说三遍：**
-**]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。**
-<br>
-**]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。**
-<br>
-**]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。**
-<br>
-<br>
+]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+
+]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+
+]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+
+并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
+
+
 工作原理
 --------
-<br>
+
 浏览器访问网站，要首先通过DNS服务器把要访问的网站域名解析成一个唯一的IP地址，之后，浏览器才能对此网站进行定位并且访问其数据。
-<br>
+
 操作系统规定，在进行DNS请求以前，先检查系自己的Hosts文件中是否有这个域名和IP的映射关系。如果有，则直接访问这个IP地址指定的网络位置，如果没有，再向已知的DNS服务器提出域名解析请求。也就是说Hosts的IP解析优先级比DNS要高。
-<br>
+
 适用系统
 --------
-<br>
+
   * Unix
   * Linux
   * Android
   * Mac
   * Windows
-<br>
+
 更新地址
 --------
-<br>
+
 更新地址：
 
   * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
