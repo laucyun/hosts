@@ -6,6 +6,7 @@ hosts文件是一个没有扩展名的系统文件，它的主要作用是能加
 ]Liuker Team[团队将持续更新Google、Gmail、谷歌学术、Google Play、Facebook、Twitter、Youtube、Android、亚马逊、雅虎、维基百科、Mozilla、Github、、Archive、Battle.NET、Box.com、BundleStars、DeviantART、DuckDuckGo、HumbleBundle、imgur、Indiegala、inoreader、Instagram、Ixquick、Logmein、MEGA、OneDrive、osu、RockStar、SoundCloud、Speedtest、Startpage、Steam、WordPress、XDA、Appannie、Travis CI fastly CDN等hosts。
 
 **注：**
+
 Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打开。（一般这些网站都是SSL加密链接，如Twitter：https://twitter.com/）
 
 如果不喜欢用谷歌香港，可以以[https://www.google.com/ncr](https://www.google.com/ncr)方式访问，（No Country Redirect）禁止国别跳转。
@@ -16,6 +17,7 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 
 
 **重要的事情说三遍：**
+
 ]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
 ]Liuker Team[团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
