@@ -3,7 +3,7 @@
 
 hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
 
-![]Liuker Team[](img/]LT[.gif)团队将持续更新Google、Gmail、谷歌学术、Google Play、Facebook、Twitter、Youtube、Android、亚马逊、雅虎、维基百科、Mozilla、Github、、Archive、Battle.NET、Box.com、BundleStars、DeviantART、DuckDuckGo、HumbleBundle、imgur、Indiegala、inoreader、Instagram、Ixquick、Logmein、MEGA、OneDrive、osu、RockStar、SoundCloud、Speedtest、Startpage、Steam、WordPress、XDA、Appannie、Travis CI fastly CDN等hosts。
+![](img/]LT[.gif)团队将持续更新Google、Gmail、谷歌学术、Google Play、Facebook、Twitter、Youtube、Android、亚马逊、雅虎、维基百科、Mozilla、Github、、Archive、Battle.NET、Box.com、BundleStars、DeviantART、DuckDuckGo、HumbleBundle、imgur、Indiegala、inoreader、Instagram、Ixquick、Logmein、MEGA、OneDrive、osu、RockStar、SoundCloud、Speedtest、Startpage、Steam、WordPress、XDA、Appannie、Travis CI fastly CDN等hosts。
 
 **注：**
 
@@ -18,11 +18,11 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 
 **重要的事情说三遍：**
 
-![]Liuker Team[](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
-![]Liuker Team[](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
-![]Liuker Team[](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
 并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
 
