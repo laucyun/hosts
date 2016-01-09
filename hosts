@@ -1,19 +1,18 @@
 ##              
 # Copyright (c) 2015-2016, ]Liuker Team[.
 #
-# This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
-# Redistribution and use in anyway, DO NOT remove these and follow comments.
+# Only for study and research use, please do not be used for any commercial purposes.
 #
 # Host Database
 #
-# localhost is used to configure the loopback interface when the system is booting. 
+# Localhost is used to configure the loopback interface when the system is booting. 
 # Do not change this entry.
 #
-# Update Address£ºhttps://github.com/liuker0x007/hosts
+# Update Address: https://github.com/liuker0x007/hosts
 #
-# Last update: Sat Jan 2 20:17:21 UTC+8 2016
+# Last update: Sat Jan 9 22:04:22 UTC+8 2016
 #
-# Repaired Google IP from 173.194.69.100 to 216.239.38.125. Repaired Twitter, Facebook, YouTube, Steam hosts.
+# Just streamlined Steam hosts.
 ##
 127.0.0.1	localhost
 255.255.255.255 broadcasthost
@@ -224,8 +223,6 @@ fe80::1%lo0 localhost
 
 # FlipBoard Start
 # FlipBoard End
-
-
 
 # Gmail web Start
 216.239.38.125	chatenabled.mail.google.com
@@ -3065,43 +3062,6 @@ fe80::1%lo0 localhost
 37.0.88.36	support.startpage.com
 37.0.88.36	blog.startpage.com
 # Startpage End
-
-# Steam Start
-203.116.74.210	akacdn.valve.com.edgesuite.net
-208.64.202.85	api.steampowered.com
-162.242.173.193	cafe.steampowered.com
-203.116.74.210	cdn.akamai.steamstatic.com
-203.116.74.210	cdn.steamcommunity.com
-203.116.74.210	cdn.steampowered.com
-203.116.74.210	cdn.store.steampowered.com
-162.254.192.20	client-download.steampowered.com
-205.185.216.42	cloud-2.steampowered.com
-205.185.216.10	cloud-2.steamusercontent.com
-203.116.74.210	cloud-3.steampowered.com
-203.116.74.210	cloud-3.steamusercontent.com
-205.128.91.126	cloud-4.steampowered.com
-205.128.91.126	cloud-4.steamusercontent.com
-207.123.53.253	content2.steampowered.com
-205.185.216.10	content3.steampowered.com
-69.252.117.26	content6.steampowered.com
-203.116.74.210	content8.steampowered.com
-184.50.91.157	forums.steampowered.com
-203.116.74.210	images.akamai.steamusercontent.com
-203.116.74.210	media.steampowered.com
-205.185.216.42	media2.steampowered.com
-207.123.53.253	media3.steampowered.com
-203.116.74.210	media4.steampowered.com
-46.16.252.18	na.gcsip.com
-203.116.74.210	steamcdn-a.akamaihd.net
-184.50.91.157	steamcommunity.com
-203.116.74.210	steamcommunity-a.akamaihd.net
-203.116.74.210	steamstore-a.akamaihd.net
-203.116.74.210	store.akamai.steamstatic.com
-184.50.91.157	store.steampowered.com
-23.32.241.40	store.valvesoftware.com
-184.50.91.157	storefront.steampowered.com
-184.50.91.157	support.steampowered.com
-# Steam End
 
 # Twitter Start
 185.45.5.47	t.co
