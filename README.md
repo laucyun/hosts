@@ -11,7 +11,7 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 
 如果不喜欢用谷歌香港，可以以[https://www.google.com/ncr](https://www.google.com/ncr)方式访问，（No Country Redirect）禁止国别跳转。
 
-可能有的地区的网络（铁通、联通）hosts会出现无法正常使用，这个不是你我能左右的！
+可能有的地区的网络（铁通、联通）hosts会出现无法正常使用！
 
 由于DNS污染太严重，YouTube只能打开网页，视频无法播放！如果想观看YouTube的视频，可以通过[YouTube Video Converter - Convert to MP3, MP4, AVI, MKV](http://www.onlinevideoconverter.com/video-converter)网站把视频下载下来，接着在本地观看。
 
