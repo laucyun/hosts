@@ -55,7 +55,7 @@ The applicable system
 Update Address
 --------------
 
-  * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
+  * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
   
 How to modify the Hosts file
 ----------------------------
