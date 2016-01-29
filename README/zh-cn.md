@@ -1,9 +1,9 @@
 语言选择
 --------
 
-  * [English](README/en-ww.md)
-  * [中文（简体）](README/zh-cn.md)
-  * [中文（繁体）](README/zh-tw.md)
+  * [English](en-ww.md)
+  * [中文（简体）](zh-cn.md)
+  * [中文（繁体）](zh-tw.md)
 
 
 说明
