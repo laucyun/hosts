@@ -32,7 +32,7 @@ Due to DNS pollution is too serious, YouTube can only open the web page, the vid
 
 ![](img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-[](img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
+![](img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
 
 
 Working Principles
