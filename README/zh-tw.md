@@ -32,11 +32,7 @@ Google、Gmail、維琪百科、Twitter、Facebook等都用https加密方式打�
 
 ![](img/logo.gif)所提供的hosts僅限於學習和研究使用，請勿用於任何商業用途。
 
-<<<<<<< HEAD
 [](img/logo.gif)保證在hosts檔裡不會添加遮罩廣告條目，也不會劫持任何網站，更不會安裝後門。
-=======
-[](img/logo.gif)並且保證在hosts檔裡不會添加遮罩廣告條目，也不會劫持任何網站，更不會安裝後門。
->>>>>>> origin/master
 
 
 工作原理
@@ -58,11 +54,7 @@ Google、Gmail、維琪百科、Twitter、Facebook等都用https加密方式打�
 更新位址
 --------
 
-<<<<<<< HEAD
   * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
-=======
-  * * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
->>>>>>> origin/master
   
 如何修改Hosts
 --------
