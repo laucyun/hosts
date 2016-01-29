@@ -32,8 +32,7 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 
 ![](img/logo.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
-
-**※** ![](img/logo.gif)并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
+[](img/logo.gif)并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
 
 
 工作原理
