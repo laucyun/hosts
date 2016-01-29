@@ -1,41 +1,50 @@
-说明
-----
+Select language
+---------------
 
-hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
-
-![](img/]LT[.gif)团队将持续更新Google、Gmail、谷歌学术、Google Play、Facebook、Twitter、Youtube、Android、亚马逊、雅虎、维基百科、Mozilla、Github、、Archive、Battle.NET、Box.com、BundleStars、DeviantART、DuckDuckGo、HumbleBundle、imgur、Indiegala、inoreader、Instagram、Ixquick、Logmein、MEGA、OneDrive、osu、RockStar、SoundCloud、Speedtest、Startpage、Steam、WordPress、XDA、Appannie、Travis CI fastly CDN等hosts。
-
-**注：**
-
-Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打开。（一般这些网站都是SSL加密链接，如Twitter：https://twitter.com/）
-
-如果不喜欢用谷歌香港，可以以[https://www.google.com/ncr](https://www.google.com/ncr)方式访问，（No Country Redirect）禁止国别跳转。
-
-可能有的地区的网络（铁通、联通）hosts会出现无法正常使用！
-
-由于DNS污染太严重，YouTube只能打开网页，视频无法播放！如果想观看YouTube的视频，可以通过[YouTube Video Converter - Convert to MP3, MP4, AVI, MKV](http://www.onlinevideoconverter.com/video-converter)网站把视频下载下来，接着在本地观看。
+  * [English](README/en-ww.md)
+  * [中文（简体）](README/zh-cn.md)
+  * [中文（繁体）](README/zh-tw.md)
 
 
-**重要的事情说三遍：**
+Description
+-----------
 
-![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+Hosts an extension system files, it is mainly to speed up the domain name resolution, but also can shield the site, etc..
 
-![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](README/img/logo.gif) will continue to update the latest and available hosts files. Includeing Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN and so on hosts.
 
-![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+**Note: **
 
-并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
+Google, Gmail, Twitter, Facebook, etc are using HTTPS. Generally these sites are SSL encryption, eg:https://twitter.com/.
+
+If you do not like to use [https://www.google.com.hk](https://www.google.com.hk/), you can use [https://www.google.com/ncr](https://www.google.com/ncr).
+
+Possible areas of network (railcom, China unicom), This `hosts` file will be unable to use.
+
+Due to DNS pollution is too serious, YouTube can only open the web page, the video can not play. If you want to watch YouTube video, you can use [YouTube Video Converter - Convert to MP3, MP4, AVI, MKV](http://www.onlinevideoconverter.com/video-converter) to download.
 
 
-工作原理
---------
+**Important things are to be repeated for 3 times: **
 
-浏览器访问网站，要首先通过DNS服务器把要访问的网站域名解析成一个唯一的IP地址，之后，浏览器才能对此网站进行定位并且访问其数据。
+![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-操作系统规定，在进行DNS请求以前，先检查系自己的Hosts文件中是否有这个域名和IP的映射关系。如果有，则直接访问这个IP地址指定的网络位置，如果没有，再向已知的DNS服务器提出域名解析请求。也就是说Hosts的IP解析优先级比DNS要高。
+![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-适用系统
---------
+![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+
+
+![](README/img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
+
+
+Working Principles
+------------------
+
+Browser to access web site, first by the DNS server to access the website domain name resolution as a unique IP address, after the browser to this site to locate and access the data.
+
+Operating system, regulations on DNS request before, first check whether his Hosts file with the domain name and IP mapping relationship. If it has direct access to the IP address specified by the network location, if not, then put forward to known the DNS server domain name resolution requests. That is to say, the Hosts IP parsing priority is higher than the DNS.
+
+The applicable system
+---------------------
 
   * Unix
   * Linux
@@ -43,46 +52,47 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
   * Mac
   * Windows
 
-更新地址
---------
+Update Address
+--------------
 
-  * [liuker0x007/hosts: Liuker Team团队将持续更新Goog... - GitHub](https://github.com/liuker0x007/hosts)
+  * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
   
-如何修改Hosts
---------
+How to modify the Hosts file
+----------------------------
 
-### Linux & Unix
-**终端：**  
+### Linux or Unix
+If the system is Linux or Unix, have two ways.
 
-使用wget或curl，以wget为例：  
-开启终端（快捷键为“Ctrl + Alt + T”）输入`bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
+**1. Use terminal: **  
 
-**非终端：**
+Use wget or curl，eg:   
+Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
 
-打开`/etc/hosts`目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。最后在终端输入`sudo systemctl restart NetworkManager`。
+**2. Not use terminal: **
 
-**注意 : 非systemd发行版，终端输入`sudo rcnscd restart`，如果不清楚请两个都试一次。**
+Open the `/etc/hosts` folder，use downloaded `hosts` file to paste or override `hosts` file. Then, open Terminal that input `sudo systemctl restart NetworkManager` to entry into force.
+
+**Note: If the system is Non-systemd Release, yon should input `sudo rcnscd restart`. If you are not sure, please try both again.**
 
 ### Android
-如果是Android系统，用RE管理器（前提需要手机已Root）打开`/system/etc/hosts`目录，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。然后通过`开启飞行模式` -> `关闭飞行模式`的方式使其生效。
+If the system is Android, use RootExplore to open the `/system/etc/hosts` folder, use downloaded `hosts` file to paste or override `hosts` file. Then, the way is `开启飞行模式` -> `关闭飞行模式` to entry into force.
 
 ### Mac
-如果是Mac系统，打开你的文件管理器（也就是Finder），然后，请按快捷键组合“Shift+Command+G”三个组合按键查找文件，并输入Hosts文件的所在路径：`/etc/hosts`，把下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。然后终端输入`sudo killall -HUP mDNSResponder`使其生效。
+If the system is Mac OS, open Finder. Then, press hot key is "Shift+Command+G" to find files, and input is `/etc/hosts`, use downloaded `hosts` file to paste or override `hosts` file. Finally, open Terminal that input `sudo killall -HUP mDNSResponder` to entry into force.
 
 ### Windows
-用文本编辑器(如Notepad++|记事本)打开`C:\Windows\System32\drivers\etc`中的hosts文件，把下载好的`hosts`文件全部内容复制到`C:\WINDOWS\system32\drivers\etc`目录中的hosts文件中，保存后通过```开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns```使其生效。
+If the system is Windwos, open the `C:\Windows\System32\drivers\etc` folder, use downloaded `hosts` file to paste or override `hosts` file. Finally, the way is ```开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns``` to entry into force.
 
-注意：如果遇到无法保存，请右键hosts -> 属性 -> 安全，然后选择你登陆的用户名，最后点击编辑，勾选"写入"即可。
 
-**注意：如果`hosts`文件中已经有内容，那么请把已有的内容追加到`hosts`文件末尾。**
+**Note: If the `hosts` file have any content, you must add the content to at the end of this file。**
 
-更新时间
---------
+Update time
+-----------
 
-基本上每周周末都会更新一次。
+Updated almost every weekend.
 
-联系方式
---------
+Contact me
+----------
 
   * E-mail：lzq@liuker.xyz
-  * QQ：[2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
+  * QQ：2523417411
