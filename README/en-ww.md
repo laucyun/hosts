@@ -3,7 +3,7 @@ Description
 
 Hosts an extension system files, it is mainly to speed up the domain name resolution, but also can shield the site, etc..
 
-![](README/img/logo.gif) will continue to update the latest and available hosts files. Includeing Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN and so on hosts.
+![](img/logo.gif) will continue to update the latest and available hosts files. Includeing Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN and so on hosts.
 
 **Note:**
 
@@ -18,15 +18,15 @@ Due to DNS pollution is too serious, YouTube can only open the web page, the vid
 
 **Important things are to be repeated for 3 times:**
 
-![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
 
 
-**※** ![](README/img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
+**※** ![](img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
 
 
 Working Principles
