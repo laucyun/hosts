@@ -58,7 +58,11 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 更新地址
 --------
 
-  * [liuker0x007/hosts: Liuker Team will continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
+<<<<<<< HEAD
+  * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
+=======
+  * * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
+>>>>>>> origin/master
   
 如何修改Hosts
 --------
