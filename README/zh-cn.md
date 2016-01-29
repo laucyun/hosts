@@ -1,9 +1,17 @@
+语言选择
+--------
+
+  * [English](en-ww.md)
+  * [中文（简体）](zh-cn.md)
+  * [中文（繁体）](zh-tw.md)
+
+
 说明
 ----
 
 hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
 
-![](img/]LT[.gif)将持续更新最新的且可用的hosts文件。其中包括Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN等hosts.
+![](img/logo.gif)将持续更新最新的且可用的hosts文件。其中包括Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN等hosts.
 
 **注：**
 
@@ -18,13 +26,13 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 
 **重要的事情说三遍：**
 
-![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](img/logo.gif)所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
-![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](img/logo.gif)所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
-![](img/]LT[.gif)团队所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
+![](img/logo.gif)所提供的hosts仅限于学习和研究使用，请勿用于任何商业用途。
 
-并且保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
+![](img/logo.gif)保证在hosts文件里不会添加屏蔽广告条目，也不会劫持任何网站，更不会安装后门。
 
 
 工作原理
@@ -46,7 +54,7 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 更新地址
 --------
 
-  * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
+  * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
   
 如何修改Hosts
 --------
@@ -87,4 +95,4 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 --------
 
   * E-mail：lzq@liuker.xyz
-  * QQ：2523417411
+  * QQ：[2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
