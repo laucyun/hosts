@@ -3,9 +3,9 @@ Description
 
 Hosts an extension system files, it is mainly to speed up the domain name resolution, but also can shield the site, etc..
 
-![](img/]LT[.gif) will continue to update the latest and available hosts files. Includeing Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN and so on hosts.
+![](README/img/logo.gif) will continue to update the latest and available hosts files. Includeing Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN and so on hosts.
 
-**Note: **
+**Note:**
 
 Google, Gmail, Twitter, Facebook, etc are using HTTPS. Generally these sites are SSL encryption, eg:https://twitter.com/.
 
@@ -16,16 +16,17 @@ Possible areas of network (railcom, China unicom), This `hosts` file will be una
 Due to DNS pollution is too serious, YouTube can only open the web page, the video can not play. If you want to watch YouTube video, you can use [YouTube Video Converter - Convert to MP3, MP4, AVI, MKV](http://www.onlinevideoconverter.com/video-converter) to download.
 
 
-**Important things are to be repeated for 3 times: **
+**Important things are to be repeated for 3 times:**
 
-![](img/]LT[.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-![](img/]LT[.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
-![](img/]LT[.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
 
 
-![](img/]LT[.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
+
+**※** ![](README/img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
 
 
 Working Principles
@@ -47,20 +48,20 @@ The applicable system
 Update Address
 --------------
 
-  * [liuker0x007/hosts - Github](https://github.com/liuker0x007/hosts)
+  * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
   
 How to modify the Hosts file
 ----------------------------
 
-### Linux & Unix
-If the system is Linux & Unix, have two ways.
+### Linux or Unix
+If the system is Linux or Unix, have two ways.
 
-**1. Use terminal: **  
+**1.Use terminal:**  
 
 Use wget or curl，eg:   
 Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
 
-**2. Not use terminal: **
+**2.Not use terminal:**
 
 Open the `/etc/hosts` folder，use downloaded `hosts` file to paste or override `hosts` file. Then, open Terminal that input `sudo systemctl restart NetworkManager` to entry into force.
 
