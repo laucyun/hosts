@@ -34,7 +34,7 @@ Due to DNS pollution is too serious, YouTube can only open the web page, the vid
 
 
 
-**※**![](README/img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
+**※** ![](README/img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
 
 
 Working Principles
