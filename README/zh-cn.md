@@ -3,7 +3,6 @@
 
   * [English](en-ww.md)
   * [中文（简体）](zh-cn.md)
-  * [中文（繁体）](zh-tw.md)
 
 
 说明
@@ -65,7 +64,7 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 **1、终端：**  
 
 使用wget或curl，以wget为例：  
-开启终端（快捷键为“Ctrl + Alt + T”）输入`bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
+开启终端（快捷键为“Ctrl + Alt + T”）输入`bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
 
 **2、非终端：**
 
@@ -94,5 +93,5 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 联系方式
 --------
 
-  * E-mail：lzq@liuker.xyz
+  * E-mail：[lzq@liuker.xyz](mailto:lzq@liuker.xyz)
   * QQ：[2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
