@@ -95,5 +95,5 @@ Updated almost every weekend.
 Contact me
 ----------
 
-  * E-mail: lzq@liuker.xyz
+  * E-mail: [lzq@liuker.xyz](mailto:lzq@liuker.xyz)
   * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
