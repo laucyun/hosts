@@ -3,7 +3,6 @@ Select language
 
   * [English](en-ww.md)
   * [中文（简体）](zh-cn.md)
-  * [中文（繁体）](zh-tw.md)
 
 
 Description
@@ -65,7 +64,7 @@ If the system is Linux or Unix, have two ways.
 **1.Use terminal:**  
 
 Use wget or curl，eg:   
-Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
+Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
 
 **2.Not use terminal:**
 
@@ -93,5 +92,5 @@ Updated almost every weekend.
 Contact me
 ----------
 
-  * E-mail: lzq@liuker.xyz
+  * E-mail: [lzq@liuker.xyz](mailto:lzq@liuker.xyz)
   * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
