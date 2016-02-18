@@ -3,7 +3,6 @@ Select language
 
   * [English](README/en-ww.md)
   * [中文（简体）](README/zh-cn.md)
-  * [中文（繁体）](README/zh-tw.md)
 
 
 Description
