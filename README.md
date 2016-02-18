@@ -67,7 +67,7 @@ If the system is Linux or Unix, have two ways.
 **1.Use terminal:**  
 
 Use wget or curl，eg:   
-Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
+Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
 
 **2.Not use terminal:**
 
