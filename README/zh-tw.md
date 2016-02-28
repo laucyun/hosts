@@ -65,7 +65,7 @@ Google、Gmail、維琪百科、Twitter、Facebook等都用https加密方式打�
 **1、終端：**  
 
 使用wget或curl，以wget為例：  
-開啟終端（快速鍵為“Ctrl + Alt + T”）輸入`bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
+開啟終端（快速鍵為“Ctrl + Alt + T”）輸入`bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
 
 **2、非終端：**
 
