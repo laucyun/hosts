@@ -5,6 +5,13 @@ Select language
   * [中文（简体）](README/zh-cn.md)
 
 
+Mail notification
+-----------------
+
+![Google hosts update alerts](README/img/pushmail.png)
+New features: Google hosts update alerts. If you want to set Google hosts to update e-mail alert, please leave your email address.
+
+
 Description
 -----------
 
@@ -94,5 +101,5 @@ Updated almost every weekend.
 Contact me
 ----------
 
-  * E-mail: [lzq@liuker.xyz](mailto:lzq@liuker.xyz)
+  * E-mail: [lt@liuker.xyz](mailto:lt@liuker.xyz)
   * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)

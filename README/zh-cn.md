@@ -5,6 +5,13 @@
   * [中文（简体）](zh-cn.md)
 
 
+更新提醒
+--------
+
+![Google hosts更新提醒](README/img/pushmail.png)
+新功能：Google hosts更新提醒。如果你想设置Google hosts更新的邮件提醒的话，请留下您的邮箱地址。
+
+
 说明
 ----
 
@@ -93,5 +100,5 @@ Google、Gmail、维基百科、Twitter、Facebook等都用https加密方式打�
 联系方式
 --------
 
-  * E-mail：[lzq@liuker.xyz](mailto:lzq@liuker.xyz)
-  * QQ：[2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
+  * E-mail: [lt@liuker.xyz](mailto:lt@liuker.xyz)
+  * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)

@@ -6,6 +6,13 @@
   * [中文（繁體）](zh-tw.md)
 
 
+更新提醒
+--------
+
+![Google hosts更新提醒](README/img/pushmail.png)
+新功能：Google hosts更新提醒。如果你想設置Google hosts更新的郵件提醒的話，請留下您的郵箱地址。
+
+
 說明
 ----
 
@@ -65,7 +72,7 @@ Google、Gmail、維琪百科、Twitter、Facebook等都用https加密方式打�
 **1、終端：**  
 
 使用wget或curl，以wget為例：  
-開啟終端（快速鍵為“Ctrl + Alt + T”）輸入`bash -c 'wget https://github.com/liuker0x007/hosts/blob/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
+開啟終端（快速鍵為“Ctrl + Alt + T”）輸入`bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
 
 **2、非終端：**
 
@@ -94,5 +101,5 @@ Google、Gmail、維琪百科、Twitter、Facebook等都用https加密方式打�
 聯繫方式
 --------
 
-  * E-mail：lzq@liuker.xyz
-  * QQ：[2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
+  * E-mail: [lt@liuker.xyz](mailto:lt@liuker.xyz)
+  * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
