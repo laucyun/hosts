@@ -5,13 +5,6 @@
   * [中文（简体）](zh-cn.md)
 
 
-更新提醒
---------
-
-![Google hosts更新提醒](README/img/pushmail.png)
-新功能：Google hosts更新提醒。如果你想设置Google hosts更新的邮件提醒的话，请留下您的邮箱地址。
-
-
 说明
 ----
 
