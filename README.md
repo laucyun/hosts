@@ -4,14 +4,6 @@ Select language
   * [English](README/en-ww.md)
   * [中文（简体）](README/zh-cn.md)
 
-
-Mail notification
------------------
-
-![Google hosts update alerts](README/img/pushmail.png)
-New features: Google hosts update alerts. If you want to set Google hosts to update e-mail alert, please leave your email address.
-
-
 Description
 -----------
 
