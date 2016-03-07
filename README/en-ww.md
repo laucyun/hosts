@@ -1,8 +1,8 @@
 Select language
 ---------------
 
-  * [English](README/en-ww.md)
-  * [中文（简体）](README/zh-cn.md)
+  * [English](en-ww.md)
+  * [中文（简体）](zh-cn.md)
 
 
 Description
