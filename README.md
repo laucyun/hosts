@@ -8,9 +8,7 @@
 说明
 ----
 
-hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
-
-![](README/img/logo.gif)将持续更新最新的且可用的hosts文件。其中包括Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN等hosts.
+想上Google者，请上https://liuker.xyz(https://liuker.xyz) , 无需修改hosts文件！
 
 适用系统
 --------
