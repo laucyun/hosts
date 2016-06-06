@@ -1,8 +1,8 @@
 语言选择
 --------
 
-  * [English]((README/en-ww.md)
-  * [中文（简体）]((README/zh-cn.md)
+  * [English](README/en-ww.md)
+  * [中文（简体）](README/zh-cn.md)
 
 
 说明
@@ -10,7 +10,7 @@
 
 hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
 
-![](img/logo.gif)将持续更新最新的且可用的hosts文件。其中包括Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN等hosts.
+![](readme/img/logo.gif)将持续更新最新的且可用的hosts文件。其中包括Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN等hosts.
 
 适用系统
 --------
