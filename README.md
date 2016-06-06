@@ -1,49 +1,19 @@
-Select language
----------------
+语言选择
+--------
 
-  * [English](README/en-ww.md)
-  * [中文（简体）](README/zh-cn.md)
-
-Description
------------
-
-Hosts an extension system files, it is mainly to speed up the domain name resolution, but also can shield the site, etc..
-
-![](README/img/logo.gif) will continue to update the latest and available hosts files. Includeing Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN and so on hosts.
-
-**Note:**
-
-Google, Gmail, Twitter, Facebook, etc are using HTTPS. Generally these sites are SSL encryption, eg:https://twitter.com/.
-
-If you do not like to use [https://www.google.com.hk](https://www.google.com.hk/), you can use [https://www.google.com/ncr](https://www.google.com/ncr).
-
-Possible areas of network (railcom, China unicom), This `hosts` file will be unable to use.
-
-Due to DNS pollution is too serious, YouTube can only open the web page, the video can not play. If you want to watch YouTube video, you can use [YouTube Video Converter - Convert to MP3, MP4, AVI, MKV](http://www.onlinevideoconverter.com/video-converter) to download.
+  * [English]((README/en-ww.md)
+  * [中文（简体）]((README/zh-cn.md)
 
 
-**Important things are to be repeated for 3 times:**
+说明
+----
 
-![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+hosts文件是一个没有扩展名的系统文件，它的主要作用是能加快域名解析，还可以屏蔽网站等。 
 
-![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
+![](img/logo.gif)将持续更新最新的且可用的hosts文件。其中包括Google, Gmail, Android, Android Developers, Google Scholar, Google Developers, Google Play, Youtube, Facebook, Twitter, Amazon, Yahoo, Wikipedia, Github, Archive, Battle.NET, Box.com, BundleStars, DeviantART, DuckDuckGo, HumbleBundle, imgur, Indiegala, inoreader, Instagram, Ixquick, Logmein, MEGA, OneDrive, osu, RockStar, SoundCloud, Speedtest, Startpage, Steam, WordPress, XDA, Appannie, Travis CI fastly CDN等hosts.
 
-![](README/img/logo.gif) provided by the hosts is limited to study and research use, please do not used for any commercial purposes.
-
-
-
-![](README/img/logo.gif) guarantee that in the hosts file does not add screen advertising items, don't hijack any web site, is not to install the back door.
-
-
-Working Principles
-------------------
-
-Browser to access web site, first by the DNS server to access the website domain name resolution as a unique IP address, after the browser to this site to locate and access the data.
-
-Operating system, regulations on DNS request before, first check whether his Hosts file with the domain name and IP mapping relationship. If it has direct access to the IP address specified by the network location, if not, then put forward to known the DNS server domain name resolution requests. That is to say, the Hosts IP parsing priority is higher than the DNS.
-
-The applicable system
----------------------
+适用系统
+--------
 
   * Unix
   * Linux
@@ -51,47 +21,48 @@ The applicable system
   * Mac
   * Windows
 
-Update Address
---------------
+更新地址
+--------
 
-  * [liuker0x007/hosts: Liuker Team will continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
+  * [liuker0x007/hosts: Liuker Teamwill continue to update the latest and available hosts files...](https://github.com/liuker0x007/hosts)
   
-How to modify the Hosts file
-----------------------------
+如何修改Hosts
+-------------
 
-### Linux or Unix
-If the system is Linux or Unix, have two ways.
+### Linux & Unix
+如果是Linux或者Unix系统，有两种方法。
 
-**1.Use terminal:**  
+**1、终端：**  
 
-Use wget or curl，eg:   
-Open Terminal(Hot key: "Ctrl + Alt + T"), input `bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`.
+使用wget或curl，以wget为例：  
+开启终端（快捷键为“Ctrl + Alt + T”）输入`bash -c 'wget https://raw.githubusercontent.com/liuker0x007/hosts/master/hosts -qO /tmp/hosts && sudo mv /tmp/hosts /etc/hosts'`。
 
-**2.Not use terminal:**
+**2、非终端：**
 
-Open the `/etc/hosts` folder，use downloaded `hosts` file to paste or override `hosts` file. Then, open Terminal that input `sudo systemctl restart NetworkManager` to entry into force.
+打开`/etc/hosts`目录，用下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。最后在终端输入`sudo systemctl restart NetworkManager`。
 
-**Note: If the system is Non-systemd Release, yon should input `sudo rcnscd restart`. If you are not sure, please try both again.**
+**注意 : 非systemd发行版，终端输入`sudo rcnscd restart`，如果不清楚请两个都试一次。**
 
 ### Android
-If the system is Android, use RootExplore to open the `/system/etc/hosts` folder, use downloaded `hosts` file to paste or override `hosts` file. Then, the way is `开启飞行模式` -> `关闭飞行模式` to entry into force.
+如果是Android系统，用RE管理器（前提需要手机已Root）打开`/system/etc/hosts`目录，用下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。然后通过`开启飞行模式` -> `关闭飞行模式`的方式使其生效。
 
 ### Mac
-If the system is Mac OS, open Finder. Then, press hot key is "Shift+Command+G" to find files, and input is `/etc/hosts`, use downloaded `hosts` file to paste or override `hosts` file. Finally, open Terminal that input `sudo killall -HUP mDNSResponder` to entry into force.
+如果是Mac系统，打开你的文件管理器（也就是Finder），然后，请按快捷键组合“Shift+Command+G”三个组合按键查找文件，并输入Hosts文件的所在路径：`/etc/hosts`，用下载好的`hosts`文件粘帖和覆盖该目录的`hosts`文件。然后终端输入`sudo killall -HUP mDNSResponder`使其生效。
 
 ### Windows
-If the system is Windwos, open the `C:\Windows\System32\drivers\etc` folder, use downloaded `hosts` file to paste or override `hosts` file. Finally, the way is ```开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns``` to entry into force.
+如果是Windows系统，用文本编辑器(如Notepad++|记事本)打开`C:\Windows\System32\drivers\etc`中的`hosts`文件，用下载好的`hosts`文件全部内容复制到`C:\WINDOWS\system32\drivers\etc`目录中的`hosts`文件中。或者用下载好的`hosts`文件粘帖和覆盖`C:\WINDOWS\system32\drivers\etc`目录中的`hosts`文件中。保存后通过```开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns```使其生效。
 
+注意：如果遇到无法保存，请右键hosts -> 属性 -> 安全，然后选择你登陆的用户名，最后点击编辑，勾选"写入"即可。
 
-**Note: If the `hosts` file have any content, you must add the content to at the end of this file。**
+**注意：如果`hosts`文件中已经有内容，那么请把已有的内容追加到`hosts`文件末尾。**
 
-Update time
------------
+更新时间
+--------
 
-Updated almost every weekend.
+基本上每周周末都会更新一次。
 
-Contact me
-----------
+联系方式
+--------
 
   * E-mail: [lt@liuker.xyz](mailto:lt@liuker.xyz)
   * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
