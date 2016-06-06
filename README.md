@@ -8,7 +8,7 @@
 说明
 ----
 
-想上Google者，请上https://liuker.xyz(https://liuker.xyz) , 无需修改hosts文件！
+想上Google者，请上[https://liuker.xyz](https://liuker.xyz) , 无需修改hosts文件！
 
 适用系统
 --------
