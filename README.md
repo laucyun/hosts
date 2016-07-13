@@ -8,7 +8,7 @@
 说明
 ----
 
-想上Google者，请上[https://liuker.xyz](https://liuker.xyz) , 无需修改hosts文件！
+每周更新Hosts (包含Google、Gmail、Facebook、Twitter、Amazon、Yahoo、Wikipedia、Github等被墙的网站)文件。只想上Google者，请上 https://liuker.xyz 即可Google，无需修改Hosts文件！
 
 适用系统
 --------
