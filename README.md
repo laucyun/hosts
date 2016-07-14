@@ -24,7 +24,7 @@
 更新地址
 --------
 
-  * [liuker0x007/hosts: 每周持续更新Hosts (包含Google、Gmail、Facebook、Twitter、Amazon、Yahoo、Wikipedia、Github等被墙的网站)文件。只想上Google者，请上 https://liuker.xyz 即可Google，无需修改Hosts文件！](https://github.com/liuker0x007/hosts)
+  * [liuker0x007/hosts: 每周持续更新Hosts (包含Google、Gmail、Facebook、Twitter、Amazon、Yahoo、Wikipedia、Github等被墙的网站)文件。只想上Google者，请上 https://g2.liuker.xyz/ 即可Google，无需修改Hosts文件！](https://github.com/liuker0x007/hosts)
   
 如何修改Hosts
 -------------
