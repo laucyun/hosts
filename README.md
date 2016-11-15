@@ -1,8 +1,8 @@
 语言选择
 --------
 
-  * [English](README/en-ww.md)
-  * [中文（简体）](README/zh-cn.md)
+  * [English](doc/en-ww.md)
+  * [中文（简体）](doc/zh-cn.md)
 
 
 说明
@@ -10,7 +10,7 @@
 
 持续每周更新Hosts (包含Google、Gmail、Facebook、Twitter、Amazon、Yahoo、Wikipedia、Github等被墙的网站)文件。只想上Google者，请上 https://g.liuker.org/ 即可Google，无需修改Hosts文件！
 
-目前![](README/img/logo.gif)拥有3000多个可用的Google IP！所以，大家可以尽情地使用！
+目前![](doc/img/logo.gif)拥有3000多个可用的Google IP！所以，大家可以尽情地使用！
 
 适用系统
 --------
