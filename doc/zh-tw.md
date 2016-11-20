@@ -102,4 +102,3 @@ Google、Gmail、維琪百科、Twitter、Facebook等都用https加密方式打�
 --------
 
   * E-mail: [lt@liuker.xyz](mailto:lt@liuker.xyz)
-  * QQ: [2523417411](http://wpa.qq.com/msgrd?v=3&uin=2523417411&site=qq&menu=yes)
